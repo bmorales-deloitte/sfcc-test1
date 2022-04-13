@@ -8,6 +8,7 @@ Storefront Reference Architecture supplies an [plugin_applepay](https://github.c
 Your feedback on the ease-of-use and limitations of this new architecture is invaluable during the developer preview. Particularly, feedback on any issues you encounter or workarounds you develop for efficiently customizing the base cartridge without editing it directly.
 
 # haha
+# haha ulit
 # The latest version
 
 The latest version of SFRA is 6.0.0
